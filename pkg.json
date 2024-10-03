@@ -1,0 +1,1 @@
+{ "install": "echo 'We Are Ready!'", "start": "php -S 0.0.0.0:2020 -t ." }
